@@ -99,7 +99,7 @@ Business Decision — Recommended action based on the insight
 👨‍🎓 Author
 Muhammad Salman Saleem
 Reg No: FA24-BBD-101 | Section A
-Business and Big Data — Fall 2024
+BS Business Data Analytics — Fall 2024
 Submitted to: Hamza Rana
 
 This project was developed as part of the academic curriculum for the BBD-101 course.ShareContentAdventure Works 2020 (1).xlsxxlsxpdfFA24-BBD-101_MuhmmadSalmanSaleem_InsightReport.docxdocxFA24-BBD-101_MuhmmadSalmanSaleem_PowerBI.pbixpbixLab Final Project.docxdocx
