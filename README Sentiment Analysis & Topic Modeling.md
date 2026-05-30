@@ -1,6 +1,7 @@
 # 📱 Sentiment Analysis & Topic Modeling of Google Play Store Reviews
 
-> note the file maybe not shown and open properly on github but you can download and run it easily so don't hasitate to download ipynb file https://github.com/zzalman/Data_Analytics_Portfolio/blob/main/Sentiment%20Analysis%20and%20Topic%20Modeling%20of%20Google%20Play%20Store%20Reviews.ipynb 
+> note the file maybe not shown and open properly on github but you can download and run it easily so don't hasitate to download ipynb file https://github.com/zzalman/Data_Analytics_Portfolio/blob/main/Sentiment%20Analysis%20and%20Topic%20Modeling%20of%20Google%20Play%20Store%20Reviews.ipynb
+> the dataset link https://www.kaggle.com/datasets/zzalman/cloud-storage-apps-user-reviews-dataset-1-8m
 
 > A modular and reusable NLP project designed to transform raw app reviews into actionable insights using Sentiment Analysis, Topic Modeling, and advanced text preprocessing techniques.
 
